@@ -1,0 +1,57 @@
+#con{
+	width: 1000px;
+    background-color: gray;
+	margin: 0px auto;
+}
+
+#head{
+	height: 100px;
+	/*width:1000px;*/
+	background-color:red;
+}
+
+#mid{
+	height: 800px;
+	/*width: 1000px;*/
+}
+
+#zuo{
+	height: 800px;
+	width:800px;
+	background-color:green;
+	float: left;
+}
+
+.four{
+	height: 360px;
+	width: 360px;
+	margin: 15px;
+	background-color: pink;
+	float: left;
+	border: 5px solid black;
+}
+
+#orange{
+	background-color: orange;
+}
+
+#white{
+	background-color: white;
+}
+
+#skyblue{
+	background-color: skyblue;
+}
+
+#you{
+	height: 800px;
+	width:200px;
+	background-color:blue;
+	float: right;
+}
+
+#foot{
+	height: 150px;
+	/*width: 1000px;*/
+	background-color:yellow;
+}

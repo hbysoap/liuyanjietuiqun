@@ -1,0 +1,39 @@
+#con{
+	margin: 0px auto;
+}
+#sanjiao1{
+	height: 0px;
+	width: 0px;
+	border-top: 0px solid transparent;
+    border-right: 50px solid transparent;
+	border-bottom: 50px solid green;
+	border-left: 50px solid transparent;
+	margin: 0px auto;
+}
+
+#sanjiao2{
+	height: 0px;
+    width: 20px;
+	border-top: 0px solid transparent;
+	border-right: 60px solid transparent;
+	border-bottom: 60px solid green;
+	border-left: 60px solid transparent;
+	margin: 0px auto;
+}
+
+#sanjiao3{
+    height: 0px;
+	width: 40px;
+	border-top: 0px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 70px solid green;
+	border-left: 70px solid transparent;
+	margin: 0px auto;
+}
+
+#shugan{
+	height:70px;
+	width: 35px;
+	background-color: brown; 
+	margin: 0px auto;
+}
